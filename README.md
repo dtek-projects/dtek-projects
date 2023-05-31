@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dtek-projects
-- 👀 I’m interested in bioinformatics, networking and cybersecurity.
-- 🌱 I’m currently learning python, R, command line, Linux, and data analysis.
+- 👀 I’m interested in software development and cybersecurity.
+- 🌱 I’m currently learning C++, software design, and 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
